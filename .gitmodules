@@ -7,3 +7,6 @@
 [submodule "sub_3"]
 	path = sub_3
 	url = ./sub_3/
+[submodule "reddit"]
+	path = reddit
+	url = https://github.com/priyankt68/reddit_miner.git
